@@ -1,2 +1,17 @@
 # FNCS-Skin-Swapper
-a basic skin swapper coded in winforms shit ui and not even good it was made in 2 mins and only has fncs 2.0
+
+a Swapper With just Champions 2.0 pickaxe
+
+# How to Skid
+
+Download Visual studio 2022
+
+Run the project file
+
+and then start skidding
+
+# How to run
+
+Download .net 
+
+and open project
