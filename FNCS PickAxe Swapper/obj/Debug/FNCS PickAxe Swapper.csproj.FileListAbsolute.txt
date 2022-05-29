@@ -1,0 +1,15 @@
+C:\Users\dexte\source\repos\FNCS PickAxe Swapper\FNCS PickAxe Swapper\bin\Debug\FNCS PickAxe Swapper.exe.config
+C:\Users\dexte\source\repos\FNCS PickAxe Swapper\FNCS PickAxe Swapper\bin\Debug\FNCS PickAxe Swapper.exe
+C:\Users\dexte\source\repos\FNCS PickAxe Swapper\FNCS PickAxe Swapper\bin\Debug\FNCS PickAxe Swapper.pdb
+C:\Users\dexte\source\repos\FNCS PickAxe Swapper\FNCS PickAxe Swapper\bin\Debug\Microsoft.WindowsAPICodePack.dll
+C:\Users\dexte\source\repos\FNCS PickAxe Swapper\FNCS PickAxe Swapper\bin\Debug\Microsoft.WindowsAPICodePack.Shell.dll
+C:\Users\dexte\source\repos\FNCS PickAxe Swapper\FNCS PickAxe Swapper\obj\Debug\FNCS PickAxe Swapper.csproj.AssemblyReference.cache
+C:\Users\dexte\source\repos\FNCS PickAxe Swapper\FNCS PickAxe Swapper\obj\Debug\FNCS PickAxe Swapper.csproj.SuggestedBindingRedirects.cache
+C:\Users\dexte\source\repos\FNCS PickAxe Swapper\FNCS PickAxe Swapper\obj\Debug\FNCS_PickAxe_Swapper.Form1.resources
+C:\Users\dexte\source\repos\FNCS PickAxe Swapper\FNCS PickAxe Swapper\obj\Debug\FNCS_PickAxe_Swapper.Properties.Resources.resources
+C:\Users\dexte\source\repos\FNCS PickAxe Swapper\FNCS PickAxe Swapper\obj\Debug\FNCS PickAxe Swapper.csproj.GenerateResource.cache
+C:\Users\dexte\source\repos\FNCS PickAxe Swapper\FNCS PickAxe Swapper\obj\Debug\FNCS PickAxe Swapper.csproj.CoreCompileInputs.cache
+C:\Users\dexte\source\repos\FNCS PickAxe Swapper\FNCS PickAxe Swapper\obj\Debug\FNCS PickAxe Swapper.csproj.CopyComplete
+C:\Users\dexte\source\repos\FNCS PickAxe Swapper\FNCS PickAxe Swapper\obj\Debug\FNCS PickAxe Swapper.exe
+C:\Users\dexte\source\repos\FNCS PickAxe Swapper\FNCS PickAxe Swapper\obj\Debug\FNCS PickAxe Swapper.pdb
+C:\Users\dexte\source\repos\FNCS PickAxe Swapper\FNCS PickAxe Swapper\obj\Debug\FNCS_PickAxe_Swapper.Form2.resources
