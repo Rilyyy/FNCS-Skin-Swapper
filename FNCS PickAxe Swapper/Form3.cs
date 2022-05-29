@@ -1,6 +1,4 @@
-﻿using FNCS_PickAxe_Swapper.Properties;
-using JustJosh_Swapper_NOT_THE_NAME;
-using Microsoft.WindowsAPICodePack.Dialogs;
+﻿using JustJosh_Swapper_NOT_THE_NAME;
 using System;
 using System.Collections.Generic;
 using System.ComponentModel;
@@ -14,7 +12,7 @@ using System.Windows.Forms;
 
 namespace FNCS_PickAxe_Swapper
 {
-    public partial class Form1 : Form
+    public partial class Form3 : Form
     {
         public static void SwapBytes(string pak, long offset, byte[] bytes)
         {
@@ -24,22 +22,33 @@ namespace FNCS_PickAxe_Swapper
             binaryWriter.Close();
         }
         bool showswaptime = true;
-        private long offset1 = 351158272;
-        public Form1()
+        private long offset1 = 47357952;
+        public Form3()
         {
             InitializeComponent();
         }
-        string filePath = (Properties.Settings.Default.pakspath + @"\pakchunk10-WindowsClient.ucas");
+        string filePath = (Properties.Settings.Default.pakspath + @"\pakchunk0-WindowsClient.ucas");
+        private void button1_Click(object sender, EventArgs e)
+        {
+            Form2 main = new Form2();
+            main.Show();
+        }
 
-        private void Form1_Load(object sender, EventArgs e)
+        private void label2_Click(object sender, EventArgs e)
+        {
+            Form1 main = new Form1();
+            main.Show();
+        }
+
+        private void Form3_Load(object sender, EventArgs e)
         {
 
         }
 
         private void button2_Click(object sender, EventArgs e)
         {
-            SwapBytes(filePath, offset1, API.ShodowSlicer);
-            SwapBytes(filePath, offset1, API.Champions);
+            SwapBytes(filePath, offset1, API.Defualt);
+            SwapBytes(filePath, offset1, API.AxeChampions);
             richTextBox1.AppendText("\n[LOG] added Pickaxe 1/1");
             richTextBox1.AppendText("\n[LOG] Done");
         }
@@ -47,27 +56,10 @@ namespace FNCS_PickAxe_Swapper
         private void button3_Click(object sender, EventArgs e)
         {
             CheckForIllegalCrossThreadCalls = false;
-            SwapBytes(filePath, offset1, API.Champions);
-            SwapBytes(filePath, offset1, API.ShodowSlicer);
+            SwapBytes(filePath, offset1, API.AxeChampions);
+            SwapBytes(filePath, offset1, API.Defualt);
             richTextBox1.AppendText("\n[LOG] removed Pickaxe 1/1");
             richTextBox1.AppendText("\n[LOG] Done");
-        }
-
-        private void button1_Click_1(object sender, EventArgs e)
-        {
-            Form2 main = new Form2();
-            main.Show();
-        }
-
-        private void button5_Click(object sender, EventArgs e)
-        {
-
-        }
-
-        private void label2_Click(object sender, EventArgs e)
-        {
-            Form3 main = new Form3();
-            main.Show();
         }
     }
 }

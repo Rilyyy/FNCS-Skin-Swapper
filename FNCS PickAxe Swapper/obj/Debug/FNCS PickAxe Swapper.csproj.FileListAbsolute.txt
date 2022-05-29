@@ -13,3 +13,4 @@ C:\Users\dexte\source\repos\FNCS PickAxe Swapper\FNCS PickAxe Swapper\obj\Debug\
 C:\Users\dexte\source\repos\FNCS PickAxe Swapper\FNCS PickAxe Swapper\obj\Debug\FNCS PickAxe Swapper.exe
 C:\Users\dexte\source\repos\FNCS PickAxe Swapper\FNCS PickAxe Swapper\obj\Debug\FNCS PickAxe Swapper.pdb
 C:\Users\dexte\source\repos\FNCS PickAxe Swapper\FNCS PickAxe Swapper\obj\Debug\FNCS_PickAxe_Swapper.Form2.resources
+C:\Users\dexte\source\repos\FNCS PickAxe Swapper\FNCS PickAxe Swapper\obj\Debug\FNCS_PickAxe_Swapper.Form3.resources

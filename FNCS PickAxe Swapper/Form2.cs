@@ -41,5 +41,10 @@ namespace FNCS_PickAxe_Swapper
                 textBox1.Text = Settings.Default.pakspath;
             }
         }
+
+        private void Form2_Load(object sender, EventArgs e)
+        {
+
+        }
     }
 }
